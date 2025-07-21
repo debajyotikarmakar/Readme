@@ -1,34 +1,74 @@
 <h1 align="center">Hi 👋, I'm Debajyoti Karmakar</h1>
-<h3 align="center">A passionate frontend and Backend developer from Tripura,India</h3>
+<h3 align="center">💻 Full Stack Dev | ⚡ Tech Tinkerer | 📍 Tripura, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debajyotikarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="debajyotikarmakar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debajyotikarmakar" alt="debajyotikarmakar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/debajyotikarmkr" target="blank"><img src="https://img.shields.io/twitter/follow/debajyotikarmkr?logo=twitter&style=for-the-badge" alt="debajyotikarmkr" /></a> </p>
-
-- 📫 How to reach me **debajyotikarmakar940@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/debajyotikarmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debajyotikarmkr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debajyoti-karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debajyoti-karmakar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/debajyoti karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="debajyoti karmakar" height="30" width="40" /></a>
-<a href="https://fb.com/debajyotikarmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debajyotikarmkr" height="30" width="40" /></a>
-<a href="https://instagram.com/debajyotikarmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debajyotikarmkr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/debajyotikarmakarofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debajyotikarmakarofficial" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/debajyoti940" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="debajyoti940" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/debajyotikarmak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debajyotikarmak1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/debajyotikarmakar940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="debajyotikarmakar940" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/debajyoti_karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debajyoti_karmakar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/debajyotikarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="debajyotikarmakar" height="30" width="40" /></a>
-<a href="https://discord.gg/debajyotikarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="debajyotikarmakar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=debajyotikarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="debajyotikarmakar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debajyotikarmakar&show_icons=true&locale=en&layout=compact" alt="debajyotikarmakar" /></p>
+### 🔥 About Me
+- 🎓 Electrical Engineering Undergrad @ NIT Agartala  
+- 🛠️ Building Arduino & sensor-based systems + full-stack web apps  
+- 👨‍💻 Currently diving deep into GATE EE, Embedded C, and DevOps  
+- ✍️ Writing clean code & meaningful bugs since 2022  
+- 📫 Reach me at: **debajyotikarmakar940@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debajyotikarmakar&show_icons=true&locale=en" alt="debajyotikarmakar" /></p>
+---
 
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/debajyotikarmkr"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/debajyoti-karmakar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/debajyotikarmkr"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/debajyoti940"><img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef" /></a>
+  <a href="https://www.hackerrank.com/debajyotikarmak1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank" /></a>
+  <a href="https://leetcode.com/debajyoti_karmakar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode" /></a>
+</p>
+
+---
+
+### 🧠 Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debajyotikarmakar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyotikarmakar&layout=compact&theme=tokyonight" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=debajyotikarmakar&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debajyotikarmakar&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 📈 Contribution Snake (Just for the flex)
+![snake gif](https://github.com/debajyotikarmakar/debajyotikarmakar/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+### 🚀 Current Goals
+- ⚡ Ace GATE EE & core concepts
+- 🧪 Create IoT + Web powered hardware projects
+- 🧠 Master backend engineering and cloud integration
