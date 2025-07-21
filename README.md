@@ -63,10 +63,7 @@
 
 ---
 
-### 📈 Contribution Snake (Just for the flex)
-![snake gif](https://github.com/debajyotikarmakar/debajyotikarmakar/blob/output/github-contribution-grid-snake.gif)
 
----
 
 ### 🚀 Current Goals
 - ⚡ Ace GATE EE & core concepts
